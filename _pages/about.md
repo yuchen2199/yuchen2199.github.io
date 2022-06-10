@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhouyc
+ * @Date: 2022-06-10 22:40:21
+ * @LastEditTime: 2022-06-10 23:31:29
+ * @LastEditors: zhouyc
+ * @Description: 
+-->
 ---
 permalink: /
 title: "Yuchen Zhou"
@@ -8,11 +15,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, advised by A.P .[Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
+I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, advised by A.P [Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
 Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdscribing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# 本科期间，我积极参与人型机器人、基于计算机视觉的导盲设备（导盲场景理解）、智能车、计算机博弈等多个AI、EE自动化相关的课题。硕士阶段，我更聚焦于计算机视觉方向的研究，包括但不仅限于场景理解、特别是自动驾驶场景的高等场景认知。具体包括：驾驶员注意力分析，行人意图识别，交通交互、交通场景图生成等。同时，我也积极关注自然场景的HOI\SGG、Group Interaction、视频理解等方向。期待做出兼具学术性和商业落地价值的研究。
+# 本科期间，我积极参与Humanoid Robot、助盲设备、intelligent car、Computer game
+
+During my undergraduate years, I widely involved in several AI-related topics such as humanoid robot, wearable navigation device for blind people, intelligent car, and computer game. Currently, I am more focus on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding and other directions of natural scenes. I am looking forward to make research with both academic and commercial value.
 
 News
 ------
