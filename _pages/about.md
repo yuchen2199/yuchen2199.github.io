@@ -1,7 +1,7 @@
 <!--
  * @Author: zhouyc
  * @Date: 2022-06-10 22:40:21
- * @LastEditTime: 2022-06-10 23:42:15
+ * @LastEditTime: 2022-06-10 23:51:54
  * @LastEditors: zhouyc
  * @Description: 
 -->
@@ -18,7 +18,7 @@ redirect_from:
 I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, advised by A.P [Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
 Research Interests
-======
+------
 
 During my undergraduate years, I widely involved in several AI-related topics such as humanoid robot, wearable navigation device for blind people, intelligent car, and computer game. Currently, I am more focus on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding and other directions of natural scenes. I am looking forward to make research with both academic and commercial value.
 
