@@ -1,10 +1,3 @@
-<!--
- * @Author: zhouyc
- * @Date: 2022-06-10 22:40:21
- * @LastEditTime: 2022-06-10 23:53:30
- * @LastEditors: zhouyc
- * @Description: 
--->
 ---
 permalink: /
 title: "Yuchen Zhou"
