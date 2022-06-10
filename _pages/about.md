@@ -16,20 +16,13 @@ During my undergraduate years, I widely involved in several AI-related topics su
 
 News
 ------
-* *2022.06* One paper is accepted by IJCAI2022 Workshop.
-<br>
-* *2022.05* One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
-<br>
-* *2021.12* My undergraduate's thesis was selected as an outstanding undergraduate thesis in Beijing. 
-<br>
-* *2021.10* One paper is accepted by The Journal of Supercomputing.
-<br>
-* *2021.08* I won the national First prize (the Second place in military chess group) in University Computer Games Championship 2021.
-<br>
-* *2021.06* I graduate from USTB with bachelor's degree and 
+* ***2022.06*** One paper is accepted by IJCAI2022 Workshop.
+* ***2022.05*** One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
+* ***2021.12*** My undergraduate's thesis was selected as an outstanding undergraduate thesis in Beijing. 
+* ***2021.10*** One paper is accepted by The Journal of Supercomputing.
+* ***2021.08*** I won the national First prize (the Second place in military chess group) in University Computer Games Championship 2021.
+* ***2021.06*** I graduate from USTB with bachelor's degree and 
 am selected as the outstanding graduate of Beijing.
-<br>
-* *2021.05* I won the national Second prize in RoboCup China Open 2021.
-<br>
-* *2020.12* I receive the National Scholarship for undergraduate students.
+* ***2021.05*** I won the national Second prize in RoboCup China Open 2021.
+* ***2020.12*** I receive the National Scholarship for undergraduate students.
 <br>
