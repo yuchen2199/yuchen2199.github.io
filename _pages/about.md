@@ -16,7 +16,7 @@ During my undergraduate years, I widely involved in several AI-related topics su
 
 News
 ------
-* ***2022.06***  One paper is accepted by IJCAI2022 Workshop.
+* ***2022.06*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***2022.05***  One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
 * ***2021.12***  My undergraduate's thesis is selected as an outstanding undergraduate thesis in Beijing. 
 * ***2021.10***  One paper is accepted by The Journal of Supercomputing.
