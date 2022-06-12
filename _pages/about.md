@@ -12,7 +12,7 @@ I am currently a M.S. student at the School of Intelligent Systems Engineering, 
 
 Research Interests
 ------
-During my undergraduate years, I widely involved in several AI-related topics such as humanoid robot (RoboCup), wearable navigation device for blind people, intelligent car, and computer game. Currently, I am more focus on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding and other directions of natural scenes. I am looking forward to make research with both academic and commercial value.
+During my undergraduate years, I was widely involved in several AI-related topics such as humanoid robot (RoboCup), wearable navigation device for blind people, intelligent car, and machine game. Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I am looking forward to make research with both academic and commercial value.
 
 News
 ------
