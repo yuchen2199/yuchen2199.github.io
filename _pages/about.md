@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, advised by A.P. [Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
+I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, supervised by A.P. [Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
 Research Interests
 ------
