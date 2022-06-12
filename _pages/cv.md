@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-### I will update it as soon.
+I will update it as soon.
+------
 
 <!-- {% include base_path %}
 
