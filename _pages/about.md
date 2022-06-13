@@ -18,7 +18,7 @@ News
 ------
 * ***2022.06*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***2022.05*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
-* ***2021.12*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis in Beijing. 
+* ***2021.12*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis of Beijing. 
 * ***2021.10*** $~~$ One paper is accepted by The Journal of Supercomputing.
 * ***2021.08*** $~~$ I win the national First prize (the Runner-up in military chess group) in University Computer Games Championship 2021.
 * ***2021.06*** $~~$ I graduate from USTB with bachelor's degree and 
