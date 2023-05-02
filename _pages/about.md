@@ -16,9 +16,10 @@ During my undergraduate years, I was widely involved in several AI-related topic
 
 News
 ------
+* ***2022.12*** $~~$ I end my internship at ByteDance, a wonderful journey.
 * ***2022.11*** $~~$ I receive the National Scholarship for Postgraduates.
-* ***2022.09*** $~~$ I added ByteDance as an intern.
-* ***2022.06*** $~~$ I have been the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and was invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
+* ***2022.09*** $~~$ I add ByteDance as an algorithm researcher intern.
+* ***2022.06*** $~~$ I am the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and have been invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
 * ***2022.06*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***2022.05*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
 * ***2021.12*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis of Beijing. 
