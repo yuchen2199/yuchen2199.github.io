@@ -15,7 +15,7 @@ During my undergraduate years, I was widely involved in several AI-related topic
 Research Interests
 ------
 - **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model
-- **Human-centric Perception**: Pedestrian Intention, Human-Object Interaction, VQA for Blind People
+- **Human-centric Perception**: Intention, Interaction, VQA for Blind People
 - **Autonomous Driving Perception**: Traffic Scene Graph, Driving Behavior Understanding
 
 
