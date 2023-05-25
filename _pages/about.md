@@ -10,9 +10,22 @@ redirect_from:
 
 I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, supervised by A.P. [Chao Gou](https://chaogou.github.io/). Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
+During my undergraduate years, I was widely involved in several AI-related topics such as humanoid robot (RoboCup), wearable navigation device for blind people, intelligent car, and machine game. Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to doing research with both academic and commercial value.
+
 Research Interests
 ------
-During my undergraduate years, I was widely involved in several AI-related topics such as humanoid robot (RoboCup), wearable navigation device for blind people, intelligent car, and machine game. Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to making research with both academic and commercial value.
+- Visual Attention
+  - Attention Prediction
+  - Scanpath Prediction
+  - Attention-Guided Deep Model
+- Human-centric Perception
+  - Pedestrian Intention
+  - Human-Object Interaction
+  - VQA for Blind People
+- Autonomous Driving Perception
+  - Traffic Scene Graph
+  - Driving Behavior Understanding
+
 
 News
 ------
