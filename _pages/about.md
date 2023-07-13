@@ -21,13 +21,14 @@ Research Interests
 
 News
 ------
+* ***2023.07*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Transportation Systems.
 * ***2022.12*** $~~$ I end my internship at ByteDance, a wonderful journey.
 * ***2022.11*** $~~$ I receive the National Scholarship for Postgraduates.
 * ***2022.09*** $~~$ I add ByteDance as an algorithm researcher intern.
 * ***2022.08*** $~~$ I attend VALSE 2022.
 * ***2022.06*** $~~$ I am the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and have been invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
 * ***2022.06*** $~~$ One paper is accepted by IJCAI2022 Workshop.
-* ***2022.05*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles 2022.
+* ***2022.05*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***2021.12*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis of Beijing. 
 * ***2021.10*** $~~$ One paper is accepted by The Journal of Supercomputing.
 * ***2021.08*** $~~$ I win the national First prize (the Runner-up in military chess group) in University Computer Games Championship 2021.
