@@ -21,6 +21,8 @@ Research Interests
 
 News
 ------
+* ***2023.07*** $~~$ One paper is accepted by ACMMM 2023.
+* ***2023.07*** $~~$ One Chinese invention patent is granted.
 * ***2023.07*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Transportation Systems.
 * ***2022.12*** $~~$ I end my internship at ByteDance, a wonderful journey.
 * ***2022.11*** $~~$ I receive the National Scholarship for Postgraduates.
