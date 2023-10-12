@@ -21,6 +21,7 @@ Research Interests
 
 News
 ------
+* ***2023.09*** $~~$ I receive the Principal's Special Scholarship of SYSU. (Top 1)
 * ***2023.08*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***2023.07*** $~~$ One paper is accepted by ACMMM 2023.
 * ***2023.07*** $~~$ One Chinese invention patent is granted.
