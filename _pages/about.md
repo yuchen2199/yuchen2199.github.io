@@ -21,6 +21,7 @@ Research Interests
 
 News
 ------
+* ***2023.11*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
 * ***2023.10*** $~~$ One paper is accepted by IEEE Transactions on Instrumentation & Measurement.
 * ***2023.09*** $~~$ I receive the Principal's Special Scholarship of SYSU. (Top 1)
 * ***2023.08*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
@@ -31,7 +32,7 @@ News
 * ***2022.11*** $~~$ I receive the National Scholarship for Postgraduates.
 * ***2022.09*** $~~$ I add ByteDance as an algorithm researcher intern.
 * ***2022.08*** $~~$ I attend VALSE 2022.
-* ***2022.06*** $~~$ I am the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022, and have been invited to give a [presentation](https://www.youtube.com/watch?v=KK3SPK6iueE) about the solution for scene graph generation.
+* ***2022.06*** $~~$ I am the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022.
 * ***2022.06*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***2022.05*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***2021.12*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis of Beijing. 
