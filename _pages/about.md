@@ -21,6 +21,7 @@ Research Interests
 
 News
 ------
+* ***Dec  2023*** $~~$ Two paper are accepted by ICASSP 2024.
 * ***Nov  2023*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
 * ***Oct  2023*** $~~$ One paper is accepted by IEEE Transactions on Instrumentation & Measurement.
 * ***Sep  2023*** $~~$ I receive the Principal's Special Scholarship of SYSU. (Top 1)
