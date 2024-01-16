@@ -11,6 +11,7 @@ redirect_from:
 I am currently a M.S. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, supervised by A.P. [Chao Gou](https://chaogou.github.io/). I am also an ACM member and an IEEE graduate student member. Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
 During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
+
 Currently, my research is centered on computer vision and machine learning.
 Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios. 
 
