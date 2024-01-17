@@ -13,7 +13,7 @@ I am currently a M.S. student at the School of Intelligent Systems Engineering, 
 During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
 
 Currently, my research is centered on computer vision and machine learning.
-Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios. 
+Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios.  I look forward to doing interesting and meaningful scientific research.
 
 
 <!-- Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to doing interesting and meaningful scientific research.-->
