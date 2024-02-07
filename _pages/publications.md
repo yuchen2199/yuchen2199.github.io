@@ -29,7 +29,9 @@ author_profile: true
 
 [2] **Zhou Y**, Liu X, Guo Z, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles. IEEE Transactions on Intelligent Vehicles, under review, 2024.
 
-### 
+### Ongoing
+
+[1] **Zhou Y**, Gou C. Behavior-aware Knowledge-embedded Model for Driver Attention Prediction.
 
 
 ------
