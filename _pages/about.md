@@ -16,7 +16,7 @@ During my undergraduate years, I actively engaged in diverse AI-related projects
 Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios.  I look forward to doing interesting and meaningful scientific research.
 Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to doing interesting and meaningful scientific research.-->
 
-My research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective human-machine interactions.
+Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective human-machine interactions. I look forward to doing interesting and meaningful scientific research.
 
 Research Interests
 ------
