@@ -20,9 +20,9 @@ Currently, my research aims to enhance AI agents' ability to understand complex 
 
 Research Interests
 ------
-- **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model
-- **Human-centric Perception**: Intention, Interaction, Behavior, VQA for Blind People
-- **Autonomous Driving Perception**: Traffic Scene Graph, Driving Behavior Understanding
+<!-- - **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model -->
+- **Human-centric Perception**: Attention, Intention, Interaction, Behavior
+- **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding
 
 
 News
