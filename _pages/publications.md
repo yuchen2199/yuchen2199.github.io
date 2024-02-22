@@ -27,7 +27,9 @@ author_profile: true
 
 [1] **Zhou Y**, Liu L, Gou C. ****** Human-Object Interaction Recognition. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), under review, 2024.  
 
-[2] **Zhou Y**, Liu X, Guo Z, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles. IEEE Transactions on Intelligent Vehicles, under review, 2024.
+[2] **Zhou Y**, Liu X, Guo Z, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles (T-IV). IEEE Transactions on Intelligent Vehicles, under review, 2024.
+
+[3] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, under review, 2024.
 
 ### Ongoing
 
