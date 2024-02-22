@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student at the School of Intelligent Systems Engineering, Sun Yat-sen University, supervised by A.P. [Chao Gou](https://chaogou.github.io/). I am also an ACM member and an IEEE graduate student member. Before that, I received the B.S. degree from University of Science and Technology Beijing.
+I am currently a Ph.D. student at the School of Intelligent Systems Engineering, Sun Yat-sen University, supervised by Prof. [Chao Gou](https://chaogou.github.io/). I am also an ACM member and an IEEE graduate student member. Before that, I received the B.S. degree from University of Science and Technology Beijing.
 
 During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
 
@@ -21,7 +21,7 @@ Currently, my research aims to enhance AI agents' ability to understand complex 
 Research Interests
 ------
 <!-- - **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model -->
-- **Human-centric Perception**: Attention, Intention, Interaction, Behavior
+- **Human-centric Perception**: Attention, Interaction, Behavior, Intention
 - **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding
 
 
