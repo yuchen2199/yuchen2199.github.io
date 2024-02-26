@@ -27,6 +27,7 @@ Research Interests
 
 News
 ------
+* ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
 * ***Dec  2023*** $~~$ Two papers are accepted by ICASSP 2024.
 * ***Nov  2023*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
 * ***Oct  2023*** $~~$ One paper is accepted by IEEE Transactions on Instrumentation & Measurement.
