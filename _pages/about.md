@@ -29,7 +29,7 @@ News
 ------
 * ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
 * ***Dec  2023*** $~~$ Two papers are accepted by ICASSP 2024.
-* ***Nov  2023*** $~~$ We are the winner of ROAD-R challenge in Neurips 2023.
+* ***Nov  2023*** $~~$ We are the winner of [ROAD-R challenge](https://sites.google.com/view/road-r/winners) in Neurips 2023. 
 * ***Oct  2023*** $~~$ One paper is accepted by IEEE Transactions on Instrumentation & Measurement.
 * ***Sep  2023*** $~~$ I receive the Principal's Special Scholarship of SYSU. (Top 1)
 * ***Aug 2023*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
@@ -40,7 +40,7 @@ News
 * ***Nov 2022*** $~~$ I receive the National Scholarship for Postgraduates.
 * ***Sep  2022*** $~~$ I add ByteDance as an algorithm researcher intern.
 * ***Aug 2022*** $~~$ I attend VALSE 2022.
-* ***Jun  2022*** $~~$ I am the winner of HOMAGE Competition@ ActivityNet Challenge in CVPR 2022.
+* ***Jun  2022*** $~~$ I am the winner of [HOMAGE Competition@ ActivityNet Challenge](https://www.youtube.com/watch?v=KK3SPK6iueE) in CVPR 2022.
 * ***Jun  2022*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***May 2022*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Dec  2021*** $~~$ My undergraduate's thesis is selected as an outstanding undergraduate thesis of Beijing. 
