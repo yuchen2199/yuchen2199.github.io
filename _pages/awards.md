@@ -5,14 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **Outstanding Research Award**
-  - *Date*: May 2023
-
-- **Best Paper Award**
-  - *Date*: October 2022
-
-- **Excellence in Teaching Award**
-  - *Date*: December 2021
+| **Award Name**              | **Date**     |
+|-----------------------------|--------------|
+| Outstanding Research Award | May 2023     |
+| Best Paper Award            | October 2022 |
+| Excellence in Teaching Award| December 2021|
 ------
 
 
