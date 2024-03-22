@@ -5,7 +5,14 @@ permalink: /awards/
 author_profile: true
 ---
 
-I will update it as soon.
+- **Outstanding Research Award**
+  - *Date*: May 2023
+
+- **Best Paper Award**
+  - *Date*: October 2022
+
+- **Excellence in Teaching Award**
+  - *Date*: December 2021
 ------
 
 
