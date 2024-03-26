@@ -11,25 +11,24 @@ author_profile: true
 
 [3] **Zhou Y**, Tan G, Zhong R, Li Y, Gou C. PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023. (JCR-Q1, IF 8.5)  
 
-[4] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 8.2)  
+[4] **Zhou Y**, Liu X, Guo Z, Cai M, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles (T-IV). IEEE Transactions on Intelligent Vehicles, 2024. (JCR-Q1, IF 8.2)  
 
-[5] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
+[5] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 8.2)  
 
-[6] Gou C. (Advisor), **Zhou Y**, Li D. Driver attention prediction based on convolution and transformers. The Journal of Supercomputing, 2022, 78(6): 8268-8284. (JCR-Q2)  
+[6] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
 
-[7] **Zhou Y**, Zhang Y, Zhao Z, et al. Toward Driving Scene Understanding: A Paradigm and Benchmark Dataset for Ego-Centric Traffic Scene Graph Representation. IEEE Journal of Radio Frequency Identification, 2022, 6: 962-967.  
+[7] Gou C. (Advisor), **Zhou Y**, Li D. Driver attention prediction based on convolution and transformers. The Journal of Supercomputing, 2022, 78(6): 8268-8284. (JCR-Q2)  
 
-[8] Liu X, **Zhou Y**, Gou C. Learning from Interaction-enhanced Scene Graph for Pedestrian Collision Risk Assessment. IEEE Transactions on Intelligent Vehicles, 2023. (JCR-Q1, IF 8.2)
+[8] **Zhou Y**, Zhang Y, Zhao Z, et al. Toward Driving Scene Understanding: A Paradigm and Benchmark Dataset for Ego-Centric Traffic Scene Graph Representation. IEEE Journal of Radio Frequency Identification, 2022, 6: 962-967.  
 
-[9] Zhong R, **Zhou Y**, Gou C. EST-TSANet: Video-based Remote Heart Rate Measurement Using Temporal Shift Attention Network. IEEE Transactions on Instrumentation and Measurement, 2023. (JCR-Q1, IF 5.3)
+[9] Liu X, **Zhou Y**, Gou C. Learning from Interaction-enhanced Scene Graph for Pedestrian Collision Risk Assessment. IEEE Transactions on Intelligent Vehicles, 2023. (JCR-Q1, IF 8.2)
 
-[10] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
+[10] Zhong R, **Zhou Y**, Gou C. EST-TSANet: Video-based Remote Heart Rate Measurement Using Temporal Shift Attention Network. IEEE Transactions on Instrumentation and Measurement, 2023. (JCR-Q1, IF 5.3)
 
-### Under Review
+[11] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
 
-[1] **Zhou Y**, Liu X, Guo Z, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles (T-IV). IEEE Transactions on Intelligent Vehicles, under review, 2024.
+[12] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024.
 
-[2] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, under review, 2024.
 
 ### Ongoing
 
