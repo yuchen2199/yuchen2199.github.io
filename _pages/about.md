@@ -32,7 +32,6 @@ Research Interests
 News
 ------
 * ***Mar  2024*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
-* ***Mar  2024*** $~~$ One paper is accepted by Journal of Image and Graphics.
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
 * ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
 * ***Dec  2023*** $~~$ Two papers are accepted by ICASSP 2024.
