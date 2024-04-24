@@ -25,9 +25,9 @@ Currently, my research aims to enhance AI agents' ability to understand complex 
 
 Research Interests
 ------
-<!-- - **Visual Attention**: Attention Prediction, Scanpath Prediction, Attention-Guided Deep Model -->
-- **Human-centric Perception**: Attention, Interaction, Behavior, Intention
-- **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding
+- **Visual Attention**: Saliency Prediction, Task-driven Attention Prediction, Attention-guided Deep Model, Scanpath
+- **Human-centric Perception**: Human-object Interaction Detection, Action / Intention Understanding
+- **Autonomous Driving Perception**: Traffic Scene Graph Representation, Driver Attention, Pedestrian Behavior Understanding
 
 
 News
@@ -46,7 +46,7 @@ News
 * ***Dec  2022*** $~~$ I end my internship at ByteDance, a wonderful journey.
 * ***Nov 2022*** $~~$ I receive the National Scholarship for Postgraduates.
 * ***Sep  2022*** $~~$ I add ByteDance as an algorithm researcher intern.
-* ***Aug 2022*** $~~$ I attend VALSE 2022.
+* ***Aug 2022*** $~~$ I attend VALSE 2022 in Tianjin, China.
 * ***Jun  2022*** $~~$ I am the winner of [HOMAGE Competition@ ActivityNet Challenge](https://www.youtube.com/watch?v=KK3SPK6iueE) in CVPR 2022.
 * ***Jun  2022*** $~~$ One paper is accepted by IJCAI2022 Workshop.
 * ***May 2022*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
