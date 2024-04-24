@@ -27,7 +27,7 @@ Research Interests
 ------
 - **Visual Attention**: Saliency Prediction, Task-driven Attention Prediction, Attention-guided Deep Model, Scanpath
 - **Human-centric Perception**: Human-object Interaction Detection, Action / Intention Understanding
-- **Autonomous Driving Perception**: Traffic Scene Graph Representation, Driver Attention, Pedestrian Behavior Understanding
+- **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
 
 
 News
