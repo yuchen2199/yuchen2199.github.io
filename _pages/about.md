@@ -20,6 +20,7 @@ Currently, my research aims to enhance AI agents' ability to understand complex 
 
 **Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)**
 
+**<font color=green>I am currently seeking joint PhD programs, visiting student positions, or research internships.</font>**
 
 
 Research Interests
