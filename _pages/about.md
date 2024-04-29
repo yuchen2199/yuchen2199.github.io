@@ -32,6 +32,7 @@ Research Interests
 
 News
 ------
+* ***Apr  2024*** $~~$ We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***Mar  2024*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
 * ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
