@@ -15,15 +15,13 @@ author_profile: true
 * 2019 Second Prize of RoBoCup China Open 2019
 
 ## 🏆 Honors
-* 2023 Principal’s Special Scholarship | Sun Yat-sen University | Top 2%
-* 2022 China National Scholarship for Graduate Students | Top 1%
-* 2022 Outstanding Undergraduate Thesis of Beijing | Top 1%
-* 2021 Outstanding Graduates of Beijing | Top 1%
-* 2021 Star of Science and Technology | University of Science and Technology Beijing | Top 1% 
-* 2021 Outstanding Graduates of Beijing | Top 1% 
-* 2020 China National Scholarship for Undergraduates | Top 1%
-
-------
+* 2023 Principal’s Special Scholarship of Sun Yat-sen University (Top 2%)
+* 2022 China National Scholarship for Graduate Students (Top 1%)
+* 2022 Outstanding Undergraduate Thesis of Beijing (Top 1%)
+* 2021 Outstanding Graduates of Beijing (Top 1%)
+* 2021 Star of Science and Technology of University of Science and Technology Beijing (Top 1%) 
+* 2021 Outstanding Graduates of Beijing (Top 1%) 
+* 2020 China National Scholarship for Undergraduates (Top 1%)
 
 
 ------
