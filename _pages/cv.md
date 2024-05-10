@@ -17,7 +17,7 @@ I will update it as soon.
 * **Bachelor With Honors, University of Science and Technology Beijing (USTB)**, Sep. 2017 - Jun. 2021
   * Advisors: Prof. Ruizhuo Song & Prof. Xiaoyan Zhao
   * Thesis Title: "Modeling Driver Visual Attention Mechanisms for Autonomous Driving"
-  * Thesis defense grade: Outstanding Undergraduate Thesis of Beijing
+  * Thesis grade: Outstanding Undergraduate Thesis of Beijing
 * **Visiting Student at Peking University (PKU)**, Jun. 2019 - Aug. 2019
   * Lecturer: Prof. David Zhang
   * Course grade: A
