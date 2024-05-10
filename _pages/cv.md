@@ -11,25 +11,23 @@ redirect_from:
 I will update it as soon.
 ------
 
-### Education
-* **Ph.D. Student** in Sun Yat-sen University (SYSU), Sep. 2021 - Jun. 2026 (Expected)
+## Education
+* **Ph.D. Student in Sun Yat-sen University (SYSU)**, Sep. 2021 - Jun. 2026 (Expected)
   * Advisor: Prof. Chao Gou
-* **B.S.** in University of Science and Technology Beijing (USTB), Sep. 2017 - Jun. 2021
+* **Bachelor With Honors** in University of Science and Technology Beijing (USTB), Sep. 2017 - Jun. 2021
   * Advisor: Prof. Ruizhuo Song & Prof. Xiaoyan Zhao
   * Thesis Title: Modeling Driver Visual Attention Mechanisms for Autonomous Driving
   * Thesis defense grade: A+, Outstanding Undergraduate Thesis of Beijing
 
 
 
-
-
-### Academic services
-- Student member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
+## Academic services
+- Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
 - Reviewer of T-IV, J-SC, ITSC, DTPI.
-- Sub-reviewer of T-PAMI, T-ITS, NIPS, ICLR.
+- Sub-Reviewer of T-PAMI, T-ITS, NIPS, ICLR.
 
 
-### Teaching Services
+## Teaching Services
 Teaching Assistant for Pattern Recognition \& Machine Learning, 2021/22 Fall.
 
 <!-- {% include base_path %}
