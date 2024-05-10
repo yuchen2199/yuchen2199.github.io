@@ -6,22 +6,22 @@ author_profile: true
 ---
 
 ## 🏆 Competitions
-* 2023 Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – in Neurips 2023
-* 2022 Winner (1st) of [HOMAGE Competition @ ActivityNet Challenge](https://youtu.be/KK3SPK6iueE?si=hrFZzSABNyrrL6jF&t=1727) – in CVPR 2022
-* 2021 Runner-up (2nd) & First Prize of China Computer Games Championship 2021
-* 2021 Second Prize of RoBoCup China Open 2021
-* 2020 Runner-up (3rd) & First Prize of China Computer Games Championship 2020
-* 2020 Second Prize of RoBoCup China Open 2020
-* 2019 Second Prize of RoBoCup China Open 2019
+- **2023** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
+- **2022** Winner (1st) of [HOMAGE Competition @ ActivityNet Challenge](https://youtu.be/KK3SPK6iueE?si=hrFZzSABNyrrL6jF&t=1727) – CVPR 2022
+- **2021** Runner-up (2nd) & First Prize at China Computer Games Championship
+- **2021** Second Prize at RoBoCup China Open
+- **2020** Runner-up (3rd) & First Prize at China Computer Games Championship
+- **2020** Second Prize at RoBoCup China Open
+- **2019** Second Prize at RoBoCup China Open
 
 ## 🏆 Honors
-* 2023 Principal’s Special Scholarship of Sun Yat-sen University (Top 2%)
-* 2022 China National Scholarship for Graduate Students (Top 1%)
-* 2022 Outstanding Undergraduate Thesis of Beijing (Top 1%)
-* 2021 Outstanding Graduates of Beijing (Top 1%)
-* 2021 Star of Science and Technology of University of Science and Technology Beijing (Top 1%) 
-* 2021 Outstanding Graduates of Beijing (Top 1%) 
-* 2020 China National Scholarship for Undergraduates (Top 1%)
+- **2023** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
+- **2022** China National Scholarship for Graduate Students (Top 1%)
+- **2022** Outstanding Undergraduate Thesis of Beijing (Top 1%)
+- **2021** Outstanding Graduates of Beijing (Top 1%)
+- **2021** Star of Science and Technology at University of Science and Technology Beijing (Top 1%)
+- **2020** China National Scholarship for Undergraduates (Top 1%)
+
 
 
 ------
