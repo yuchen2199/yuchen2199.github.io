@@ -14,7 +14,7 @@ I will update it as soon.
 ## Education
 * **Ph.D. Student in Sun Yat-sen University (SYSU)**, Sep. 2021 - Jun. 2026 (Expected)
   * Advisor: Prof. Chao Gou
-* **Bachelor With Honors** in University of Science and Technology Beijing (USTB), Sep. 2017 - Jun. 2021
+* **Bachelor With Honors in University of Science and Technology Beijing (USTB)**, Sep. 2017 - Jun. 2021
   * Advisor: Prof. Ruizhuo Song & Prof. Xiaoyan Zhao
   * Thesis Title: Modeling Driver Visual Attention Mechanisms for Autonomous Driving
   * Thesis defense grade: A+, Outstanding Undergraduate Thesis of Beijing
