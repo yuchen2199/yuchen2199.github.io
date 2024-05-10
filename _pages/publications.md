@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] **Zhou Y**, Liu L, Gou C. Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  (CCF-A)
+[1] **Zhou Y**, Liu L, Gou C. Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
 
 [2] **Zhou Y**, Tan G, Li M, Gou C. Learning from Easy to Hard Pair: Multi-step Reasoning Network for Human-Object Interaction Detection, In Proceedings of the ACM International Conference on Multimedia (ACM MM), 2023. (CCF-A)  
 
@@ -15,7 +15,7 @@ author_profile: true
 
 [5] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 8.2)  
 
-[6] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, oral, 2024. (CCF-B)
+[6] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B, Oral)
 
 [7] Gou C. (Advisor), **Zhou Y**, Li D. Driver attention prediction based on convolution and transformers. The Journal of Supercomputing, 2022, 78(6): 8268-8284. (JCR-Q2)  
 
@@ -27,7 +27,7 @@ author_profile: true
 
 [11] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
 
-[12] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024.
+[12] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024. (CCF-B)
 
 
 ### Under Review
