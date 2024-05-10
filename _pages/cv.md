@@ -14,7 +14,6 @@ I will update it as soon.
 ## Education
 * **Ph.D. Student in Sun Yat-sen University (SYSU)**, Sep. 2021 - Jun. 2026 (Expected)
   * Advisor: Prof. Chao Gou
-  * R: Prof. Chao Gou
 * **Bachelor With Honors in University of Science and Technology Beijing (USTB)**, Sep. 2017 - Jun. 2021
   * Advisor: Prof. Ruizhuo Song & Prof. Xiaoyan Zhao
   * Thesis Title: Modeling Driver Visual Attention Mechanisms for Autonomous Driving
@@ -23,7 +22,13 @@ I will update it as soon.
   * Lecturer: Prof. David Zhang
   * Course grade: A
 
-
+## Intern Experience
+* **Research Intern of ByteDance**, Sep. 2022 - Dec. 2022
+  * Advisor: Dr. Jiuqi Han & Dr. Ali Israr
+* **Research Assistant of Guangdong Key Laboratory of Intelligent Transportation System**, Dec. 2020 - Aug. 2021
+  * Advisor: Prof. Chao Gou & Prof. Dan Li
+  * **Technical Member in RoBoCup team of National School of Elite Engineering USTB**, Sep. 2018 - Dec. 2020
+  * Advisor: Dr. Hui Li
 
 ## Academic services
 - Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
