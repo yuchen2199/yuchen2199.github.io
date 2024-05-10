@@ -10,10 +10,14 @@ redirect_from:
 
 I will update it as soon.
 ------
-
 ### Academic services
-Reviewer of T-IV, J-SC, ITSC, DTPI.
-Sub-reviewer of T-PAMI, T-ITS, NIPS, ICLR.
+- Student member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
+- Reviewer of T-IV, J-SC, ITSC, DTPI.
+- Sub-reviewer of T-PAMI, T-ITS, NIPS, ICLR.
+
+
+### Teaching Services
+Teaching Assistant for Pattern Recognition \& Machine Learning, 2021/22 Fall.
 
 <!-- {% include base_path %}
 
