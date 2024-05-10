@@ -30,7 +30,7 @@ author_profile: true
 [12] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024.
 
 
-### Ongoing
+### Under Review
 
 [1] **Zhou Y**, Gou C. Behavior-aware Knowledge-embedded Model for Driver Attention Prediction.
 
