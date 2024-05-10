@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-I will update it as soon.
-------
-
 ## Education
 * **Ph.D. Student at Sun Yat-sen University (SYSU)**, Sep. 2021 - Jun. 2026 (Expected)
   * Advisor: Prof. Chao Gou
@@ -22,6 +19,8 @@ I will update it as soon.
   * Lecturer: Prof. David Zhang
   * Course grade: A
 
+------
+
 ## Intern Experience
 * **Research Intern at ByteDance**, Sep. 2022 - Dec. 2022
   * Advisors: Dr. Jiuqi Han & Dr. Ali Israr
@@ -29,15 +28,20 @@ I will update it as soon.
   * Advisors: Prof. Chao Gou & Prof. Dan Li
 * **Technical Member, RoBoCup team, National School of Elite Engineering, USTB**, Sep. 2018 - Dec. 2020
   * Advisor: Dr. Hui Li
+ 
+------
 
 ## Academic services
 - Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
 - Reviewer of T-IV, J-SC, ITSC, DTPI.
 - Sub-Reviewer of T-PAMI, T-ITS, NIPS, ICLR.
 
+------
 
 ## Teaching Services
 Teaching Assistant for Pattern Recognition \& Machine Learning, 2021/22 Fall.
+
+------
 
 <!-- {% include base_path %}
 
