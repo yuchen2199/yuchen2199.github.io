@@ -11,7 +11,7 @@ author_profile: true
 
 [3] **Zhou Y**, Tan G, Zhong R, Li Y, Gou C. PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023. (JCR-Q1, IF 8.5)  
 
-[4] **Zhou Y**, Liu X, Guo Z, Cai M, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles (T-IV). IEEE Transactions on Intelligent Vehicles, 2024. (JCR-Q1, IF 8.2)  
+[4] **Zhou Y**, Liu X, Guo Z, Cai M, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles. IEEE Transactions on Intelligent Vehicles (T-IV), 2024. (JCR-Q1, IF 8.2)  
 
 [5] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 8.2)  
 
