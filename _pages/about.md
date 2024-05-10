@@ -18,10 +18,11 @@ Currently, I am more focused on computer vision research, especially on scene un
 
 Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective human-machine interactions. I look forward to doing interesting and meaningful scientific research.
 
-**Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)**
 
-**<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern.</font>**
 
+📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from May 2024. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
+My email: zhouyuchen99@163.com , zhouych37@mail2.sysu.edu.cn
+My Wechat: zhouyuchen2017
 
 Research Interests
 ------
@@ -64,7 +65,7 @@ am selected as the outstanding graduate of Beijing.
 Contact me
 ------
 Email: zhouyuchen99@163.com , zhouych37@mail2.sysu.edu.cn
-
+Wechat: zhouyuchen2017
 
 🗺️ Visitor Map
 ------
