@@ -35,6 +35,7 @@ author_profile: true
 [1] **Zhou Y**, Gou C. Behavior-aware Knowledge-embedded Model for Driver Attention Prediction.
 
 
+------
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?&user=A4jp2FMAAAAJ).
 
 
