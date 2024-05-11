@@ -18,20 +18,20 @@ author_profile: true
 
 ### 🏆 Competitions
 - **2023** Winner (1st) of [Road Event Detection with Requirements (ROAD-R) Challenge](https://sites.google.com/view/road-r/winners) – NeurIPS 2023
-- **2022** Winner (1st) of [HOMAGE Competition @ ActivityNet Challenge](https://youtu.be/KK3SPK6iueE?si=hrFZzSABNyrrL6jF&t=1727) – CVPR 2022
+- **2022** Winner (1st) of [HOMAGE Competition @ ActivityNet Challenge](https://youtu.be/KK3SPK6iueE?si=hrFZzSABNyrrL6jF&t=1727) – CVPR 2022 (Team Leader)
 - **2021** Runner-up (2nd) & First Prize at China Computer Games Championship
 - **2021** Second Prize at RoBoCup China Open
-- **2021** Second Prize at iCAN Innovation Contest
-- **2020** First Prize in the National College Students' Innovation Training Program
-- **2020** Runner-up (3rd) & First Prize at China Computer Games Championship
-- **2020** First Prize at Chinese Collegiate Computing Competition
-- **2020** Second Prize at RoBoCup China Open
-- **2020** First Prize at National Preliminary of CIMC Siemens China Intelligent Manufacturing Challenge
-- **2020** Gold Prize at the Capital "Challenge Cup" College Students' Entrepreneurship Plan Competition
+- **2021** Second Prize at iCAN Innovation Contest (Team Leader)
+- **2020** First Prize in the National College Students' Innovation Training Program (Team Leader)
+- **2020** Runner-up (3rd) & First Prize at China Computer Games Championship (Team Leader)
+- **2020** First Prize at Chinese Collegiate Computing Competition (Team Leader)
+- **2020** Second Prize at RoBoCup China Open 
+- **2020** First Prize at National Preliminary of CIMC Siemens China Intelligent Manufacturing Challenge (Team Leader)
+- **2020** Gold Prize at the Capital "Challenge Cup" College Students' Entrepreneurship Plan Competition (Team Leader)
 - **2019** Second Prize at RoBoCup China Open
-- **2019** First Prize at the North China Five Provinces College Students' Computer Application Contest
-- **2019** First Prize in Golf Group at the Beijing College Students' Robot Competition
-- **2019** First Prize in Penalty Kick Group at the North China Five Provinces College Students' Robot Competition
+- **2019** First Prize at the North China Five Provinces College Students' Computer Application Contest 
+- **2019** First Prize in Golf Group at the Beijing College Students' Robot Competition (Team Leader)
+- **2019** First Prize in Penalty Kick Group at the North China Five Provinces College Students' Robot Competition (Team Leader)
 
 
 
