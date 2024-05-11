@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ### 🏆 Honors
+- **2024** CVPR 2024 Student Scholarship, CVPR
 - **2023** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
 - **2022** China National Scholarship for Graduate Students (Top 1%)
 - **2022** Outstanding Undergraduate Thesis of Beijing (Top 1%)
 - **2021** Outstanding Graduate of Beijing (Top 1%)
-- **2021** Star of Science and Technology at University of Science and Technology Beijing (Top 1%)
+- **2021** Star of Academic, University of Science and Technology Beijing (Top 1%)
 - **2020** China National Scholarship for Undergraduates (Top 1%)
 - **2019** Outstanding student of University of Science and Technology Beijing
 
