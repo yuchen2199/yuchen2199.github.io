@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Education
+## 🎓 Education
 * **Ph.D. Student at Sun Yat-sen University (SYSU)**, Sep. 2021 - Jun. 2026 (Expected)
   * Advisor: Prof. Chao Gou
 * **Bachelor With Honors, University of Science and Technology Beijing (USTB)**, Sep. 2017 - Jun. 2021
@@ -21,7 +21,7 @@ redirect_from:
 
 ------
 
-## Intern Experience
+## 💻 Intern Experience
 * **Research Intern at ByteDance**, Sep. 2022 - Dec. 2022
   * Advisors: Dr. Jiuqi Han & Dr. Ali Israr
 * **Research Assistant at Guangdong Key Laboratory of Intelligent Transportation System**, Dec. 2020 - Aug. 2021
@@ -31,14 +31,14 @@ redirect_from:
  
 ------
 
-## Academic services
+## 🤝 Academic services
 - Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
 - Reviewer of MM 2024, T-IV, J-SC, ITSC, DTPI.
 - Sub-Reviewer of T-PAMI, T-ITS, NeurIPS, ICLR.
 
 ------
 
-## Teaching Services
+## 👨‍🏫 Teaching Services
 Teaching Assistant for Pattern Recognition \& Machine Learning, 2021/22 Fall.
 
 ------
