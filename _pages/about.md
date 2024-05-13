@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/). I am also an ACM student member and an IEEE student member. Before that, I received the B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021.
+I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at ByteDance, mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
+Before that, I received the B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
 During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
 
@@ -23,14 +24,14 @@ Building on this foundation, I have most recently expanded my efforts to include
 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from May 2024. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
 
 
-Research Interests
+🔍 Research Interests
 ------
 - **Visual Attention**: Saliency Prediction, Task-driven Attention Prediction, Attention-guided Deep Model, Scanpath
 - **Human-centric Perception**: Human-object Interaction Detection, Action / Intention Understanding
 - **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
 
 
-News
+🌟 News
 ------
 * ***May 2024*** $~~$ I attend VALSE 2024 in Chongqing, China.
 * ***Apr  2024*** $~~$ We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
@@ -61,7 +62,7 @@ am selected as the outstanding graduate of Beijing.
 * ***Dec 2020*** $~~$ I receive the National Scholarship for undergraduate students.
 <br>
 
-Contact me
+📫 Contact me
 ------
 Email: zhouych37@mail2.sysu.edu.cn, zhouyuchen99@163.com
 
