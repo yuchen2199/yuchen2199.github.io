@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
-Before that, I received the B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
+I received honored B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
 During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
 
@@ -18,7 +18,7 @@ Specifically, I am exploring how to enhancing deep learning models by incorporat
 Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to doing interesting and meaningful scientific research.-->
 
 Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.
-Building on this foundation, I have most recently expanded my efforts to include leveraging Language Large Models (LLMs) and Vision-Language Models (VLMs) to represent human knowledge, which further enhances perception understanding tasks across various applications.
+Building on this foundation, I have most recently expanded my efforts to include leveraging Language Large Models (LLMs) and Vision-Language Models (VLMs) to represent human knowledge, which further enhances understanding tasks across various applications.
 
 
 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from May 2024. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
@@ -26,9 +26,9 @@ Building on this foundation, I have most recently expanded my efforts to include
 
 🔍 Research Interests
 ------
-- **Visual Attention**: Saliency Prediction, Task-driven Attention Prediction, Attention-guided Deep Model, Scanpath
+- **Visual Attention**: Task-driven Attention Prediction, Attention-guided Deep Model, Gaze, Saliency, Scanpath
 - **Human-centric Perception**: Human-object Interaction Detection, Action / Intention Understanding
-- **Autonomous Driving Perception**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
+- **Autonomous Driving Cognition**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
 
 
 🌟 News
