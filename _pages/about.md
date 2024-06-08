@@ -27,7 +27,7 @@ Building on this foundation, I have most recently expanded my efforts to include
 🔍 Research Interests
 ------
 - **Visual Attention**: Task-driven Attention Prediction, Attention-guided Deep Model, Gaze, Saliency, Scanpath
-- **Human-centric Perception**: Human-object Interaction Detection, Action / Intention Understanding
+- **Human Activity Understanding**: Human-object Interaction Detection, Action / Intention Understanding
 - **Autonomous Driving Cognition**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
 
 
