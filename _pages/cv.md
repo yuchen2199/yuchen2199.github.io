@@ -33,8 +33,8 @@ redirect_from:
 
 ## 🤝 Academic services
 - Student Member of IEEE, ACM, IEEE SPS, CAA, and CAAI.
-- Reviewer of MM 2024, T-IV, J-SC, ITSC, DTPI.
-- Sub-Reviewer of T-PAMI, T-ITS, NeurIPS, ICLR.
+- Reviewer of MM 2024, T-NNLS, T-ITS, T-IV, J-SC, ITSC, DTPI.
+- Sub-Reviewer of T-PAMI, NeurIPS, ICLR.
 
 ------
 
