@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
 I received honored B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
-During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, developing PID-control-based intelligent cars, and creating algorithms for computer gaming (military chess).
+During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, and developing PID-control-based intelligent cars.
 
 <!-- Currently, my research is centered on computer vision and machine learning.
 Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios.  I look forward to doing interesting and meaningful scientific research.
