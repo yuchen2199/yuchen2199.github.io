@@ -21,7 +21,7 @@ Currently, my research aims to enhance AI agents' ability to understand complex 
 Building on this foundation, I have most recently expanded my efforts to include leveraging Language Large Models (LLMs) and Vision-Language Models (VLMs) to represent human knowledge, which further enhances understanding tasks across various applications.
 
 
-📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from May 2024. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
+📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from 2024 summer. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
 
 
 🔍 Research Interests
@@ -33,7 +33,8 @@ Building on this foundation, I have most recently expanded my efforts to include
 
 🌟 News
 ------
-* ***May 2024*** $~~$ I attend VALSE 2024 in Chongqing, China.
+* ***June 2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster.
+* ***May 2024*** $~~$ I attend VALSE 2024 in Chongqing, China, and present a poster.
 * ***Apr  2024*** $~~$ We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***Mar  2024*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
