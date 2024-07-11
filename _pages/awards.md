@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 🏆 Honors
-- **2024** CVPR 2024 Student Scholarship, CVPR
+- **2024** CVPR 2024 Travel Award, CVPR
 - **2023** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
 - **2022** China National Scholarship for Graduate Students (Top 1%)
 - **2022** Outstanding Undergraduate Thesis of Beijing (Top 1%)
