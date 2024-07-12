@@ -11,15 +11,9 @@ redirect_from:
 I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
 I received honored B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
-During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, and developing PID-control-based intelligent cars.
-
-<!-- Currently, my research is centered on computer vision and machine learning.
-Specifically, I am exploring how to enhancing deep learning models by incorporating human empirical knowledge and mimicking human cognitive processes. The goal is to empower intelligent machines to have human-like cognitive and reasoning abilities in complex interaction scenarios.  I look forward to doing interesting and meaningful scientific research.
-Currently, I am more focused on computer vision research, especially on scene understanding for autonomous driving, including driver attention prediction, pedestrian intention prediction, traffic interaction, traffic scene graph, and so on. Meanwhile, I also pay attention to human-object interaction, scene graph generation, video understanding, and other tasks of natural scene understanding. I look forward to doing interesting and meaningful scientific research.-->
+<!-- During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, and developing PID-control-based intelligent cars. -->
 
 Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.
-Building on this foundation, I have most recently expanded my efforts to include leveraging Language Large Models (LLMs) and Vision-Language Models (VLMs) to represent human knowledge, which further enhances understanding tasks across various applications.
-
 
 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from 2024 summer. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
 
