@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 ## 🏆 Honors
+- **2024** China National Scholarship for Doctoral Students (Top 1%, 博士研究生国家奖学金)
+- **2024** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
 - **2024** CVPR 2024 Travel Award, CVPR
 - **2023** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
-- **2022** China National Scholarship for Graduate Students (Top 1%)
+- **2022** China National Scholarship for Master's Students (Top 1%, 硕士研究生国家奖学金)
 - **2022** Outstanding Undergraduate Thesis of Beijing (Top 1%)
 - **2021** Outstanding Graduate of Beijing (Top 1%)
 - **2021** Star of Academic, University of Science and Technology Beijing (Top 1%)
-- **2020** China National Scholarship for Undergraduates (Top 1%)
+- **2020** China National Scholarship for Undergraduates (Top 1%, 本科生国家奖学金)
 - **2019** Outstanding student of University of Science and Technology Beijing
 
 
