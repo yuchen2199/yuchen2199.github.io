@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+### Hi there, I am Yuchen Zhou (周昱臣)!
+
 I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
 I received honored B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
@@ -15,7 +17,8 @@ I received honored B.S. degree from [University of Science and Technology Beijin
 
 <!--Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.  -->
 
-📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
+> 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
+
 
 
 🔍 Research Interests
