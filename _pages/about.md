@@ -13,16 +13,17 @@ I received honored B.S. degree from [University of Science and Technology Beijin
 
 <!-- During my undergraduate years, I actively engaged in diverse AI-related projects, including behavioral decision-making for humanoid robots (RoboCup), designing wearable navigation devices for the visually impaired, and developing PID-control-based intelligent cars. -->
 
-Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.
+<!--Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.  -->
 
-📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern from 2024 summer. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
+📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
 
 
 🔍 Research Interests
 ------
-- **Visual Attention**: Task-driven Attention Prediction, Attention-guided Deep Model, Gaze, Saliency, Scanpath
-- **Human Activity Understanding**: Human-object Interaction Detection, Action / Intention Understanding
-- **Autonomous Driving Cognition**: Traffic Scene Graph, Driver Attention, Pedestrian Behavior Understanding, Traffic Interaction, Road Event Detection
+My research is focused on enabling AI agents to comprehend visual scenes in a human-like manner, particularly in understanding complex interactions, with the ultimate goal of building user-friendly human-machine interaction systems. I draw inspiration from human cognitive processes, associated knowledge, and attention mechanisms to guide models in performing downstream tasks. Recently, I have been exploring how large language models (LLMs) and vision-language models (VLMs) can be leveraged to enhance these tasks. Key research areas include:
+
+- **Human-centric Understanding**: Human-object Interaction Detection (HOI), Task-driven Visual Attention
+- **Autonomous Driving Cognition**: Traffic Scene Graph, Driver Attention Modeling, Pedestrian Intention Prediction
 
 
 🌟 News
