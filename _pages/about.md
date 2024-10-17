@@ -31,9 +31,8 @@ My research is focused on enabling AI agents to comprehend visual scenes in a hu
 
 🌟 News
 ------
-* ***June 2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster.
+* ***June 2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster. We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***May 2024*** $~~$ I attend VALSE 2024 in Chongqing, China, and present a poster.
-* ***Apr  2024*** $~~$ We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***Mar  2024*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
 * ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
