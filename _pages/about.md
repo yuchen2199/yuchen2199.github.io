@@ -23,7 +23,7 @@ I received honored B.S. degree from [University of Science and Technology Beijin
 
 🔍 Research Interests
 ------
-My research is focused on enabling AI agents to comprehend visual scenes in a human-like manner, particularly in understanding complex interactions, with the goal of building user-friendly human-machine interaction systems. I draw inspiration from human cognitive processes, associated knowledge, and attention mechanisms to guide models in performing downstream tasks. Recently, I have been exploring how large language models (LLMs) and vision-language models (VLMs) can be leveraged to enhance these tasks. Key research areas include:
+My research is focused on enabling AI agents to comprehend visual scenes in a human-like manner, particularly in understanding complex interactions, with the goal of building user-friendly human-machine interaction systems. I draw inspiration from human cognitive processes, associated knowledge, and gaze pattern to guide models in performing downstream tasks. Recently, I have been exploring how large language models (LLMs) and vision-language models (VLMs) can be leveraged to enhance these tasks. Key research areas include:
 
 - **Human-centric Understanding**: Human-object Interaction Detection (HOI), Task-driven Visual Attention
 - **Autonomous Driving Cognition**: Traffic Scene Graph, Driver Attention Modeling, Pedestrian Intention Prediction
