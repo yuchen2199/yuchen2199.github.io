@@ -25,14 +25,13 @@ author_profile: true
 
 [10] Zhong R, **Zhou Y**, Gou C. EST-TSANet: Video-based Remote Heart Rate Measurement Using Temporal Shift Attention Network. IEEE Transactions on Instrumentation and Measurement, 2023. (JCR-Q1, IF 5.6)
 
-[11] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
+[11] Liu X, **Zhou Y**, Ye Y, Gou C. Edge Feature-Enhanced Network for Collision Risk Assessment Using Traffic Scene Graphs. IEEE Intelligent Transportation Systems Magazine, 2024. (JCR-Q1, IF 4.3)
 
-[12] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024. (CCF-B)
+[12] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
+
+[13] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024. (CCF-B)
 
 <!--
-### Under Review
-
-[1] **Zhou Y**, Gou C. Behavior-aware Knowledge-embedded Model for Driver Attention Prediction.
 -->
 
 ------
