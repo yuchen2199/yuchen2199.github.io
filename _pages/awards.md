@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 🏆 Honors
+- **2025** 1st Young Elite Scientists Sponsorship Program by CAST, PhD Student Plan (入选首届中国科协青年人才托举工程博士生专项计划)
 - **2024** China National Scholarship for Doctoral Students (Top 1%, 博士研究生国家奖学金)
 - **2024** Principal’s Special Scholarship at Sun Yat-sen University (Top 2%)
 - **2024** CVPR 2024 Travel Award, CVPR
