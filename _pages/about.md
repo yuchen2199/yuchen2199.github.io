@@ -31,7 +31,7 @@ My recent interests include but are not limited to **multi-modal understanding**
 * ***Apr  2025*** $~~$ One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 * ***Mar  2025*** $~~$ One paper is accepted by ICME 2025.
 * ***Sep  2024*** $~~$ One paper is accepted by IEEE Intelligent Transportation Systems Magazine.
-* ***June 2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster. We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
+* ***Jun  2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster. We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***May  2024*** $~~$ I attend VALSE 2024 in Chongqing, China, and present a poster.
 * ***Mar  2024*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
