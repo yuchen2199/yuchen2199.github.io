@@ -30,6 +30,10 @@ My recent interests include but are not limited to **multi-modal understanding**
 -----
 * ***Apr  2025*** $~~$ One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 * ***Mar  2025*** $~~$ One paper is accepted by ICME 2025.
+* ***Mar  2025*** $~~$ I give a talk about Cognitively-Inspired Interaction Understanding in CSIG Sharing Forum.
+* ***Jan  2025*** $~~$ I am supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST ( 首批中国科协青年人才托举工程-博士生专项).
+* ***Dec  2024*** $~~$ I receive the National Scholarship for Doctoral Students.
+* ***Sep  2024*** $~~$ I receive the Principal's Special Scholarship of SYSU again this year. (Top 1)
 * ***Sep  2024*** $~~$ One paper is accepted by IEEE Intelligent Transportation Systems Magazine.
 * ***Jun  2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster. We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***May  2024*** $~~$ I attend VALSE 2024 in Chongqing, China, and present a poster.
