@@ -15,27 +15,25 @@ author_profile: true
 
 [5] **Zhou Y**, Tan G, Zhong R, Li Y, Gou C. PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023. (JCR-Q1, IF 7.9)  
 
-[6] **Zhou Y**, Tan G, Zhong R, Li Y, Gou C. PIT: Progressive Interaction Transformer for Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023. (JCR-Q1, IF 7.9)  
+[6] **Zhou Y**, Liu X, Guo Z, Cai M, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles. IEEE Transactions on Intelligent Vehicles (T-IV), 2024. (JCR-Q1, IF 14)  
 
-[7] **Zhou Y**, Liu X, Guo Z, Cai M, Gou C.  HKTSG: A Hierarchical Knowledge-guided Traffic Scene Graph Representation Learning Framework for Intelligent Vehicles. IEEE Transactions on Intelligent Vehicles (T-IV), 2024. (JCR-Q1, IF 14)  
+[7] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 14)  
 
-[8] Gou C (Advisor), **Zhou Y**, Xiao Y, Wang X and Yu H. Cascade learning for driver facial monitoring. IEEE Transactions on Intelligent Vehicles (T-IV), 8(1), 2023, pp.404-412. (JCR-Q1, IF 14)  
+[8] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B, Oral)
 
-[9] **Zhou Y**, Tan G, Gou C. Hierarchical Home Action Understanding with Implicit and Explicit Prior Knowledge. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B, Oral)
+[9] Gou C. (Advisor), **Zhou Y**, Li D. Driver attention prediction based on convolution and transformers. The Journal of Supercomputing, 2022, 78(6): 8268-8284. (JCR-Q2)  
 
-[10] Gou C. (Advisor), **Zhou Y**, Li D. Driver attention prediction based on convolution and transformers. The Journal of Supercomputing, 2022, 78(6): 8268-8284. (JCR-Q2)  
+[10] **Zhou Y**, Zhang Y, Zhao Z, et al. Toward Driving Scene Understanding: A Paradigm and Benchmark Dataset for Ego-Centric Traffic Scene Graph Representation. IEEE Journal of Radio Frequency Identification, 2022, 6: 962-967. (JCR-Q2)  
 
-[11] **Zhou Y**, Zhang Y, Zhao Z, et al. Toward Driving Scene Understanding: A Paradigm and Benchmark Dataset for Ego-Centric Traffic Scene Graph Representation. IEEE Journal of Radio Frequency Identification, 2022, 6: 962-967. (JCR-Q2)  
+[11] Liu X, **Zhou Y**, Gou C. Learning from Interaction-enhanced Scene Graph for Pedestrian Collision Risk Assessment. IEEE Transactions on Intelligent Vehicles, 2023. (JCR-Q1, IF 14)
 
-[12] Liu X, **Zhou Y**, Gou C. Learning from Interaction-enhanced Scene Graph for Pedestrian Collision Risk Assessment. IEEE Transactions on Intelligent Vehicles, 2023. (JCR-Q1, IF 14)
+[12] Zhong R, **Zhou Y**, Gou C. EST-TSANet: Video-based Remote Heart Rate Measurement Using Temporal Shift Attention Network. IEEE Transactions on Instrumentation and Measurement, 2023. (JCR-Q1, IF 5.6)
 
-[13] Zhong R, **Zhou Y**, Gou C. EST-TSANet: Video-based Remote Heart Rate Measurement Using Temporal Shift Attention Network. IEEE Transactions on Instrumentation and Measurement, 2023. (JCR-Q1, IF 5.6)
+[13] Liu X, **Zhou Y**, Ye Y, Gou C. Edge Feature-Enhanced Network for Collision Risk Assessment Using Traffic Scene Graphs. IEEE Intelligent Transportation Systems Magazine, 2024. (JCR-Q1, IF 4.3)
 
-[14] Liu X, **Zhou Y**, Ye Y, Gou C. Edge Feature-Enhanced Network for Collision Risk Assessment Using Traffic Scene Graphs. IEEE Intelligent Transportation Systems Magazine, 2024. (JCR-Q1, IF 4.3)
+[14] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
 
-[15] Huang Z, **Zhou Y**, Zhu J, Gou C. Driver Scanpaths Prediction based on Inverse Reinforcement Learning. In Proceedings of International Conference on Acoustics, Speech and Signal Processing, 2024. (CCF-B)
-
-[16] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024. (CCF-B)
+[15] 苟超, 刘欣欣, 郭子鹏, **周昱臣**, 王飞跃.  无人驾驶突发紧要场景下基于平行视觉的风险增强感知方法. 中国图象图形学报, 2024. (CCF-B)
 
 <!--
 -->
