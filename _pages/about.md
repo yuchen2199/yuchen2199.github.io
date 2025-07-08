@@ -16,10 +16,10 @@ I received honored B.S. degree from [University of Science and Technology Beijin
 
 <!--Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.  -->
 
-<!--> 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**-->
+<!--> 📣 **<font color=green>I am seeking positions as a joint PhD student, visiting student, or research intern. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>** -->
 
 > 📣 **<font color=green>I am currently on the job market for Fall 2026 positions. Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations! :)</font>**
-> 
+
 
 🔍 Research Interests
 ------
