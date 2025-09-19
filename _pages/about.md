@@ -27,7 +27,8 @@ My recent interests include but are not limited to **multi-modal understanding**
 
 🌟 News
 -----
-* ***Jun  2025*** $~~$ One paper is accepted by ICCV 2025.
+* ***Sep  2025*** $~~$ One paper is accepted by NeurIPS 2025 Spotlight (Top3%).
+* ***Jun  2025*** $~~$ One paper is accepted by ICCV 2025 Hightlight (Top3%).
 * ***Apr  2025*** $~~$ One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 * ***Mar  2025*** $~~$ One paper is accepted by ICME 2025.
 * ***Mar  2025*** $~~$ I give a talk about Cognitively-Inspired Interaction Understanding in CSIG Sharing Forum.
