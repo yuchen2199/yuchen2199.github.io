@@ -10,8 +10,7 @@ redirect_from:
 
 ### Hi there, I am Yuchen Zhou (周昱臣)!
 
-I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am also a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), mentored by Dr. Jiuqi Han and Dr. [Ali Israr](https://scholar.google.com/citations?hl=en&user=lo4v844AAAAJ).
-I received honored B.S. degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
+I am currently a Ph.D. student at the School of Intelligent Systems Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Prof. [Chao Gou](https://chaogou.github.io/) and Prof. [Guang Tan](https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm). I am a joint PhD student at the School of Computing, [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/). I am a student member of both IEEE and ACM. Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/) and [Shanghai AI Lab](https://www.shlab.org.cn/). I graduated with an honors Bachelor's degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn/) in 2021, and was a short-term visiting student at [Peking University](https://www.pku.edu.cn/).
 
 
 <!--Currently, my research aims to enhance AI agents' ability to understand complex interactions by simulating human cognitive processes and incorporating human knowledge, thereby facilitating more effective and user-friendly human-machine interactions.  -->
@@ -27,14 +26,15 @@ My recent interests include but are not limited to **multi-modal understanding**
 
 🌟 News
 -----
+* ***Sep  2025*** $~~$ I am invited to give a talk about Multi-Modal Interaction Understanding in ​​CSIG Conference on Young Scientists​​.
 * ***Sep  2025*** $~~$ One paper is accepted by NeurIPS 2025 Spotlight (Top3%).
 * ***Jun  2025*** $~~$ One paper is accepted by ICCV 2025 Hightlight (Top3%).
 * ***Apr  2025*** $~~$ One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 * ***Mar  2025*** $~~$ One paper is accepted by ICME 2025.
-* ***Mar  2025*** $~~$ I give a talk about Cognitively-Inspired Interaction Understanding in CSIG Sharing Forum.
-* ***Jan  2025*** $~~$ I am supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST ( 首批中国科协青年人才托举工程-博士生专项).
+* ***Mar  2025*** $~~$ I am invited to give a talk about Cognitively-Inspired Interaction Understanding in CSIG Sharing Forum.
+* ***Jan  2025*** $~~$ I am supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (首批中国科协青年人才托举工程-博士生专项).
 * ***Dec  2024*** $~~$ I receive the National Scholarship for Doctoral Students.
-* ***Sep  2024*** $~~$ I receive the Principal's Special Scholarship of SYSU again this year. (Top 1)
+* ***Sep  2024*** $~~$ I receive the Principal's Special Scholarship of SYSU again this year (Top 1).
 * ***Sep  2024*** $~~$ One paper is accepted by IEEE Intelligent Transportation Systems Magazine.
 * ***Jun  2024*** $~~$ I attend CVPR 2024 in Seattle, US, and give a spotlight talk along with presenting a poster. We publicly release [Interactive Gaze (IG)](https://yuchen2199.github.io/Interactive-Gaze/), the first large-scale interaction-centric gaze fixation dataset.
 * ***May  2024*** $~~$ I attend VALSE 2024 in Chongqing, China, and present a poster.
@@ -42,9 +42,9 @@ My recent interests include but are not limited to **multi-modal understanding**
 * ***Mar  2024*** $~~$ One paper is accepted by ICME 2024.
 * ***Feb  2024*** $~~$ One paper is accepted by CVPR 2024.
 * ***Dec  2023*** $~~$ Two papers are accepted by ICASSP 2024.
-* ***Nov  2023*** $~~$ We are the winner of [ROAD-R challenge](https://sites.google.com/view/road-r/winners) in Neurips 2023. 
+* ***Nov  2023*** $~~$ We are the winner of [ROAD-R challenge](https://sites.google.com/view/road-r/winners) in NeurIPS 2023. 
 * ***Oct  2023*** $~~$ One paper is accepted by IEEE Transactions on Instrumentation & Measurement.
-* ***Sep  2023*** $~~$ I receive the Principal's Special Scholarship of SYSU. (Top 1)
+* ***Sep  2023*** $~~$ I receive the Principal's Special Scholarship of SYSU (Top 1).
 * ***Aug  2023*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Vehicles.
 * ***Jul  2023*** $~~$ One paper is accepted by ACMMM 2023.
 * ***Jul  2023*** $~~$ One Chinese invention patent is granted.
