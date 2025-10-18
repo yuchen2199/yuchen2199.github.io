@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Zhou Y'**, Tang J', Xiao X, Lin Y, Liu L, Guo Z, Fei H, Xia X, Gou C. Where, What, Why: Towards Explainable Driver Attention Prediction, In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A; This paper was selected for a spotlight paper; rate: 3%) 
+- **Zhou Y'**, Tang J', Xiao X, Lin Y, Liu L, Guo Z, Fei H, Xia X, Gou C. Where, What, Why: Towards Explainable Driver Attention Prediction, In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A; <span style="color:green">This paper was selected for a spotlight paper; rate: 3%</span>)
 
-- **Zhou, Y.**, Wu, J., Ren, Z., Yao, Z., Lu, W., Peng, K., Ouyang, W., & Gou, C. CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding, In Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A; This paper was selected for a highlight paper; rate: 3%) 
+- **Zhou, Y.**, Wu, J., Ren, Z., Yao, Z., Lu, W., Peng, K., Ouyang, W., & Gou, C. CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding, In Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (CCF-A; <span style="color:green">This paper was selected for a highlight paper; rate: 3%</span>) 
 
 - **Zhou Y**, Liu L, Gou C. Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
 
