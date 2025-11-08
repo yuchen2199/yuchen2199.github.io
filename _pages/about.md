@@ -26,6 +26,7 @@ My recent interests include but are not limited to **multi-modal understanding**
 
 🌟 News
 -----
+* ***Nov  2025*** $~~$ Two papers are accepted by AAAI 2026, including one oral.
 * ***Sep  2025*** $~~$ I am invited to give a talk about Multi-Modal Interaction Understanding in ​​CSIG Conference on Young Scientists​​.
 * ***Sep  2025*** $~~$ One paper is accepted by NeurIPS 2025 Spotlight (Top3%).
 * ***Jun  2025*** $~~$ One paper is accepted by ICCV 2025 Hightlight (Top3%).
