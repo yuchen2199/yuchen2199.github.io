@@ -7,9 +7,12 @@ author_profile: true
 
 - **Zhou Y'**, Tang J', Xiao X, Lin Y, Liu L, Guo Z, Fei H, Xia X, Gou C. Where, What, Why: Towards Explainable Driver Attention Prediction, In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A; <span style="color:green">This paper was selected for a spotlight paper; rate: 3%</span>)
 
-- **Zhou, Y.**, Wu, J., Ren, Z., Yao, Z., Lu, W., Peng, K., Ouyang, W., & Gou, C. CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding, In Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (CCF-A; <span style="color:green">This paper was selected for a highlight paper; rate: 3%</span>) 
+- **Zhou Y**, Wu J, Ren Z, Yao Z, Lu W, Peng K, Ouyang W, & Gou C. CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding, In Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS), 2025 (CCF-A; <span style="color:green">This paper was selected for a highlight paper; rate: 3%</span>) 
 
 - **Zhou Y**, Liu L, Gou C. Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition, In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
+
+- **Zhou Y**, Tang J, Yang S, Xiao X, Dai Y, Yang W, Gou C, Xia X, Chua TS. Logic unseen: Revealing the logical blindspots of vision-language models, In Proceedings of the Annual AAAI Conference on Artificial Intelligence, (CCF-A; <span style="color:green">This paper was selected for a oral paper.</span>) 
+
 
 - **Zhou Y**, Tan G, Li M, Gou C. Learning from Easy to Hard Pair: Multi-step Reasoning Network for Human-Object Interaction Detection, In Proceedings of the ACM International Conference on Multimedia (ACM MM), 2023. (CCF-A)  
 
