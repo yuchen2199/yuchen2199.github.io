@@ -54,9 +54,7 @@ My recent interests include but are not limited to **multi-modal understanding**
 * ***Jul  2023*** $~~$ One paper is accepted by ACMMM 2023.
 * ***Jul  2023*** $~~$ One Chinese invention patent is granted.
 * ***Jul  2023*** $~~$ One paper is accepted by IEEE Transactions on Intelligent Transportation Systems.
-* ***Dec  2022*** $~~$ I end my internship at ByteDance, a wonderful journey.
 * ***Nov  2022*** $~~$ I receive the National Scholarship for Postgraduates.
-* ***Sep  2022*** $~~$ I add ByteDance as an algorithm researcher intern.
 * ***Aug  2022*** $~~$ I attend VALSE 2022 in Tianjin, China.
 * ***Jun  2022*** $~~$ I am the winner of [HOMAGE Competition@ ActivityNet Challenge](https://www.youtube.com/watch?v=KK3SPK6iueE) in CVPR 2022.
 * ***Jun  2022*** $~~$ One paper is accepted by IJCAI2022 Workshop.
