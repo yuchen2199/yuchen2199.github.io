@@ -26,6 +26,10 @@ My recent interests include but are not limited to **multi-modal understanding**
 
 🌟 News
 -----
+* ***May  2026*** $~~$ One paper is accepted by IJCAI 2026.
+* ***Feb  2026*** $~~$ One paper is accepted by Pattern Recognition.
+* ***Dec  2025*** $~~$ Two papers are accepted by IEEE Transactions on Intelligent Transportation Systems and IEEE Intelligent Transportation Systems Magazine, respectively.
+* ***Dec  2025*** $~~$ Two papers are accepted by ICASSP 2026.
 * ***Nov  2025*** $~~$ Two papers are accepted by AAAI 2026, including one oral.
 * ***Sep  2025*** $~~$ I am invited to give a talk about Multi-Modal Interaction Understanding in ​​CSIG Conference on Young Scientists​​.
 * ***Sep  2025*** $~~$ One paper is accepted by NeurIPS 2025 Spotlight (Top3%).
