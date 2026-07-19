@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yuchen Zhou (周昱臣) — Senior Researcher at Tencent Robotics X Lab</title>
+    <meta name="description" content="Yuchen Zhou is a Senior Researcher at Tencent Robotics X Lab, working on multi-modal understanding and foundation models.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        body.home { background: #fff; }
+        body.home main {
+            padding-top: 80px;
+            padding-bottom: 32px;
+            position: relative;
+            --hero-bg-start: #eef2ff;
+            --hero-bg-mid: #f8faff;
+        }
+        body.home main::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 480px;
+            background: linear-gradient(180deg, var(--hero-bg-start) 0%, var(--hero-bg-mid) 40%, #ffffff 100%);
+            z-index: 0;
+            transition: background 0.6s ease;
+        }
+        body.home main > .container { position: relative; z-index: 1; }
+        body.home .card,
+        body.home .card-compact {
+            background: none;
+            box-shadow: none;
+            border-radius: 0;
+            padding: 36px 0;
+            margin-bottom: 0;
+            border-top: 1px solid var(--color-border-light);
+        }
+        body.home .card:first-of-type { border-top: none; padding-top: 0; }
+        body.home .card-compact { padding: 28px 0; }
+        body.home .container { padding: 0 32px; }
+    </style>
+</head>
+<body class="home">
+
+    <!-- ===== Navigation ===== -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">
+                <span class="nav-brand-name">Yuchen Zhou</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html#home">About</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="awards.html">Awards</a></li>
+                <li><a href="talks.html">Talks</a></li>
+                <li><a href="services.html">Services</a></li>
+            </ul>
+            <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="3" y1="6" x2="21" y2="6"/>
+                    <line x1="3" y1="12" x2="21" y2="12"/>
+                    <line x1="3" y1="18" x2="21" y2="18"/>
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+
+            <!-- ===== Hero (About Me) ===== -->
+            <section class="card" id="home">
+                <div class="hero-content">
+                <div class="hero-avatar-wrap">
+                    <div class="hero-avatar">
+                        <img id="heroPhoto" src="images/photo_ug.jpg" alt="Yuchen Zhou — Undergrad" onerror="this.style.display='none'; this.parentElement.style.background='linear-gradient(135deg, #4263eb, #3b5bdb)';">
+                        <div class="photo-dots" role="group" aria-label="Switch photo">
+                            <button class="photo-dot is-active" type="button" data-src="images/photo_ug.jpg" data-alt="Yuchen Zhou — Undergrad" data-stage="Undergrad" data-bg-start="#eef2ff" data-bg-mid="#f8faff" aria-label="Undergrad"></button>
+                            <button class="photo-dot" type="button" data-src="images/photo_phd.jpg" data-alt="Yuchen Zhou — Ph.D." data-stage="Ph.D." data-bg-start="#f3f0ff" data-bg-mid="#f9f8ff" aria-label="Ph.D."></button>
+                            <button class="photo-dot" type="button" data-src="images/photo_fun.jpg" data-alt="Yuchen Zhou — Fun" data-stage="Fun" data-bg-start="#eef6ff" data-bg-mid="#f8fbff" aria-label="Fun"></button>
+                        </div>
+                    </div>
+                    <span class="photo-stage-label" id="photoStageLabel">&lt;Undergrad&gt;</span>
+                </div>
+                    <div class="hero-text">
+                        <h1 class="hero-name">Yuchen Zhou (周昱臣)</h1>
+                        <p class="hero-title">
+                            Senior Researcher at <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X Lab</a>
+                        </p>
+                        <div class="hero-bio">
+                            <p>
+                                I am currently a Senior Researcher at <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X Lab</a>. I received my Ph.D. from <a href="https://www.sysu.edu.cn/" target="_blank">Sun Yat-sen University</a> in 2026, supervised by Prof. <a href="https://chaogou.github.io/" target="_blank">Chao Gou</a> and Prof. <a href="https://ise.sysu.edu.cn/teacher/teacher01/1354976.htm" target="_blank">Guang Tan</a>. I was also a joint Ph.D. student at the <a href="https://www.comp.nus.edu.sg/" target="_blank">School of Computing</a>, <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>, supervised by Prof. <a href="https://www.chuatatseng.com/" target="_blank">Tat-Seng Chua</a>. 
+                            </p>
+                            <p>
+                                Previously, I was a research intern at <a href="https://www.bytedance.com/en/" target="_blank">ByteDance</a> and <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a>. I graduated with an honors Bachelor's degree from <a href="https://www.ustb.edu.cn/" target="_blank">University of Science and Technology Beijing</a> in 2021, and was a short-term visiting student at <a href="https://www.pku.edu.cn/" target="_blank">Peking University</a>.
+                            </p>
+                        </div>
+                        <div class="hero-callouts">
+                            <p class="callout-line"><strong>Interns.</strong> Actively looking for self-motivated interns to work with us on multimodal / embodied AI. Please feel free to drop me an email. </p>
+                            <p class="callout-line"><strong>Collaboration.</strong> Always open to research collaborations on related research topics. Welcome to reach out!</p>
+                        </div>
+                        <div class="hero-buttons">
+                            <a href="mailto:zhouyuchen99@163.com" class="btn btn-primary">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 5L2 7"/></svg>
+                                Contact by email
+                            </a>
+                            <a href="https://scholar.google.com/citations?&user=A4jp2FMAAAAJ" target="_blank" class="btn btn-outline">
+                                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.8 3.5L12 7.2l7.2 5.8L24 9.5 12 0z"/></svg>
+                                Google Scholar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ===== Research Interests ===== -->
+            <section class="card" id="research">
+                <h2 class="card-title">Research interests</h2>
+                <div class="research-text">
+                    <p>
+                         <!-- My research aims to enable AI agents to understand the multi-modal world in a human-like manner, fostering the development of efficient and user-friendly human-machine interaction systems, such as autonomous driving and robotics. I draw inspiration from human cognitive processes, knowledge, and gaze patterns to guide AI models in performing downstream tasks. My recent interests include multi-modal understanding and multi-modal foundation models. -->
+                        My research aims to enable AI agents to perceive and interact with the multimodal physical world, and to engage in user-friendly and efficient interaction with humans. Drawing inspiration from human cognitive processes, prior knowledge, and gaze patterns, I guide AI models in tackling downstream tasks. My recent research interests include <span class="research-keyword">vision-language models</span>, <span class="research-keyword">embodied foundation models</span>, and <span class="research-keyword">human-robot interaction</span>.
+                    </p>
+                </div>
+            </section>
+
+            <!-- ===== News ===== -->
+            <section class="card" id="news">
+                <h2 class="card-title">News</h2>
+                <div class="news-scroll-wrapper">
+                    <ul class="news-list">
+                        <li class="news-item">
+                            <span class="news-date">Jul 2026</span>
+                            <span class="news-content">We release <a href="https://arxiv.org/abs/2607.12894" target="_blank">Hy-Embodied-VLM-1.0</a>, an efficient Mixture-of-Experts vision-language foundation model for embodied agents.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2026</span>
+                            <span class="news-content">I Receive my Ph.D. from Sun Yat-sen University. Awarded the <span class="news-highlight">Outstanding Graduate</span> and the <span class="news-highlight">Outstanding Doctoral Dissertation</span>.</span>
+                        </li>
+                    <li class="news-item">
+                        <span class="news-date">May 2026</span>
+                        <span class="news-content">One paper on Spatial Intelligence <a href="https://arxiv.org/abs/2606.19915" target="_blank">(SpatialSV)</a> is accepted by <span class="news-highlight">IJCAI 2026</span>.</span>
+                    </li>
+                        <li class="news-item">
+                            <span class="news-date">Feb 2026</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">Pattern Recognition</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Dec 2025</span>
+                            <span class="news-content">Two papers are accepted by <span class="news-highlight">IEEE T-ITS</span> and <span class="news-highlight">IEEE ITSM</span>, respectively.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Dec 2025</span>
+                            <span class="news-content">Two papers are accepted by <span class="news-highlight">ICASSP 2026</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Nov 2025</span>
+                            <span class="news-content">Two papers on Logical Reasoning <a href="https://ojs.aaai.org/index.php/AAAI/article/view/40143" target="_blank">(Logic Unseen)</a> and RAG <a href="https://ojs.aaai.org/index.php/AAAI/article/view/40299" target="_blank">(WebFilter)</a> are accepted by <span class="news-highlight">AAAI 2026</span>, including one <span class="news-highlight">oral</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Sep 2025</span>
+                            <span class="news-content">Invited to give a talk about Multi-Modal Interaction Understanding in CSIG Conference on Young Scientists.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Sep 2025</span>
+                            <span class="news-content">One paper on Brain Foundation Model <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/7e199ad8ae40eb19b2980f61f659cb07-Abstract-Conference.html" target="_blank">(CSBrain)</a> is accepted by <span class="news-highlight">NeurIPS 2025 Spotlight</span> (Top 3%).</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2025</span>
+                            <span class="news-content">One paper on Explainable Cognitive Driving <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_Where_What_Why_Towards_Explainable_Driver_Attention_Prediction_ICCV_2025_paper.html" target="_blank">(W3DA&Llada)</a> is accepted by <span class="news-highlight">ICCV 2025 Highlight</span> (Top 3%).</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Apr 2025</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-CSVT</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Mar 2025</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">ICME 2025</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Mar 2025</span>
+                            <span class="news-content">Invited to give a talk about Cognitively-Inspired Interaction Understanding in CSIG Sharing Forum.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jan 2025</span>
+                            <span class="news-content">Supported by the <span class="news-highlight">CAST Young Elite Scientists Sponsorship Program</span> (首批中国科协青年人才托举工程-博士生专项).</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Dec 2024</span>
+                            <span class="news-content">Received the <span class="news-highlight">National Scholarship</span> for Doctoral Students.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Sep 2024</span>
+                            <span class="news-content">Received the <span class="news-highlight">Principal's Special Scholarship of SYSU</span> again this year (Top 1).</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Sep 2024</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE ITSM</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2024</span>
+                            <span class="news-content">Attended CVPR 2024 in Seattle, US, and gave a spotlight talk. Released <a href="https://yuchen2199.github.io/Interactive-Gaze/" target="_blank">Interactive Gaze (IG)</a> dataset.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">May 2024</span>
+                            <span class="news-content">Attended VALSE 2024 in Chongqing, China, and presented a poster.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Mar 2024</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-IV</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Mar 2024</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">ICME 2024</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Feb 2024</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">CVPR 2024</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Dec 2023</span>
+                            <span class="news-content">Two papers are accepted by <span class="news-highlight">ICASSP 2024</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Nov 2023</span>
+                            <span class="news-content">Winner of the <a href="https://sites.google.com/view/road-r/winners" target="_blank">ROAD-R Challenge</a> at NeurIPS 2023.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Oct 2023</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-IM</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Sep 2023</span>
+                            <span class="news-content">Received the <span class="news-highlight">Principal's Special Scholarship of SYSU</span> (Top 1).</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Aug 2023</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-IV</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jul 2023</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">ACM MM 2023</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jul 2023</span>
+                            <span class="news-content">One Chinese invention patent is granted.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jul 2023</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-ITS</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Nov 2022</span>
+                            <span class="news-content">Received the <span class="news-highlight">National Scholarship</span> for Postgraduates.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Aug 2022</span>
+                            <span class="news-content">Attended VALSE 2022 in Tianjin, China.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2022</span>
+                            <span class="news-content">Winner of the <a href="https://www.youtube.com/watch?v=KK3SPK6iueE" target="_blank">HOMAGE Competition</a> at CVPR 2022 ActivityNet Challenge.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2022</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IJCAI 2022 Workshop</span>.</span>
+                        </li>
+                        <!-- <li class="news-item">
+                            <span class="news-date">May 2022</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">IEEE T-IV</span>.</span>
+                        </li> -->
+                        <li class="news-item">
+                            <span class="news-date">Dec 2021</span>
+                            <span class="news-content">Undergraduate thesis selected as an <span class="news-highlight">outstanding undergraduate thesis of Beijing</span>.</span>
+                        </li>
+                        <!-- <li class="news-item">
+                            <span class="news-date">Oct 2021</span>
+                            <span class="news-content">One paper is accepted by <span class="news-highlight">The Journal of Supercomputing</span>.</span>
+                        </li> -->
+                        <li class="news-item">
+                            <span class="news-date">Aug 2021</span>
+                            <span class="news-content">Won the national <span class="news-highlight">First Prize</span> in University Computer Games Championship 2021.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Jun 2021</span>
+                            <span class="news-content">Graduated from USTB, selected as the <span class="news-highlight">outstanding graduate of Beijing</span>.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">May 2021</span>
+                            <span class="news-content">Won the national <span class="news-highlight">Second Prize</span> in RoboCup China Open 2021.</span>
+                        </li>
+                        <li class="news-item">
+                            <span class="news-date">Dec 2020</span>
+                            <span class="news-content">Received the <span class="news-highlight">National Scholarship</span> for undergraduate students.</span>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- ===== Contact ===== -->
+            <section class="card card-compact" id="contact">
+                <h2 class="card-title">Contact Me</h2>
+                <div class="contact-compact">
+                    <a href="mailto:zhouyuchen99@163.com" class="contact-compact-email">zhouyuchen99@163.com</a>
+                    <span class="contact-compact-sep">·</span>
+                    <a href="mailto:ewanzhou@tencent.com" class="contact-compact-email">ewanzhou@tencent.com</a>
+                    <div class="contact-compact-old">
+                        <span class="email-old">zhouych37@mail2.sysu.edu.cn</span>
+                        <span class="email-old">yuchenzhou@u.nus.edu</span>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- ===== Footer ===== -->
+    <footer>
+        <div class="container">
+            <p class="footer-text">&copy; 2026 Yuchen Zhou. All rights reserved. <span class="visitor-count">Visitors: <span id="visitorCount">-</span></span></p>
+        </div>
+    </footer>
+
+    <script>
+        // Navbar scroll effect
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 10) navbar.classList.add('scrolled');
+            else navbar.classList.remove('scrolled');
+        });
+
+        // Mobile menu toggle
+        const navToggle = document.getElementById('navToggle');
+        const navLinks = document.getElementById('navLinks');
+        navToggle.addEventListener('click', () => navLinks.classList.toggle('show'));
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => navLinks.classList.remove('show'));
+        });
+
+        // Photo switcher
+        const heroPhoto = document.getElementById('heroPhoto');
+        const stageLabel = document.getElementById('photoStageLabel');
+        const photoDots = document.querySelectorAll('.photo-dot');
+
+        photoDots.forEach(dot => {
+            dot.addEventListener('click', () => {
+                if (dot.classList.contains('is-active')) return;
+
+                // Fade out
+                heroPhoto.classList.add('fading');
+                stageLabel.classList.add('fading');
+
+                setTimeout(() => {
+                    // Swap image and label
+                    heroPhoto.src = dot.dataset.src;
+                    heroPhoto.alt = dot.dataset.alt;
+                    stageLabel.textContent = '<' + dot.dataset.stage + '>';
+
+                    // Update background gradient
+                    const mainEl = document.querySelector('main');
+                    if (mainEl && dot.dataset.bgStart) {
+                        mainEl.style.setProperty('--hero-bg-start', dot.dataset.bgStart);
+                        mainEl.style.setProperty('--hero-bg-mid', dot.dataset.bgMid);
+                    }
+
+                    // Update active dot
+                    photoDots.forEach(d => d.classList.remove('is-active'));
+                    dot.classList.add('is-active');
+
+                    // Fade in
+                    heroPhoto.classList.remove('fading');
+                    stageLabel.classList.remove('fading');
+                }, 300);
+            });
+        });
+
+        // Visitor counter
+        fetch('https://api.counterapi.dev/v1/yuchen2199-academic/visits/up')
+            .then(r => r.json())
+            .then(data => {
+                const el = document.getElementById('visitorCount');
+                if (el && data.count !== undefined) {
+                    el.textContent = data.count.toLocaleString();
+                }
+            })
+            .catch(() => {
+                const el = document.getElementById('visitorCount');
+                if (el) el.textContent = '';
+            });
+    </script>
+</body>
+</html>

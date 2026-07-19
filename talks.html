@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talks — Yuchen Zhou (周昱臣)</title>
+    <meta name="description" content="Invited talks and presentations by Yuchen Zhou.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <!-- ===== Navigation ===== -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">
+                <span class="nav-brand-name">Yuchen Zhou</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html#home">About</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="awards.html">Awards</a></li>
+                <li><a href="talks.html" class="active">Talks</a></li>
+                <li><a href="services.html">Services</a></li>
+            </ul>
+            <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="3" y1="6" x2="21" y2="6"/>
+                    <line x1="3" y1="12" x2="21" y2="12"/>
+                    <line x1="3" y1="18" x2="21" y2="18"/>
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+
+            <!-- ===== Talks ===== -->
+            <section class="card">
+                <div class="page-header">
+                    <h1>Talks</h1>
+                    <p>Invited talks and conference presentations.</p>
+                </div>
+
+                <ul class="awards-list">
+                    <li class="award-item">
+                        <span class="award-year">2026</span>
+                        <div class="award-content">
+                            <div class="award-title">Graduation Representative Speech</div>
+                            <div class="award-org">School of Intelligent Systems Engineering, Sun Yat-sen University — Graduation Ceremony</div>
+                        </div>
+                    </li>
+                    <li class="award-item">
+                        <span class="award-year">2025</span>
+                        <div class="award-content">
+                            <div class="award-title">Multi-Modal Interaction Understanding Driven by Large Models</div>
+                            <div class="award-org">CSIG Conference on Young Scientists — Qingdao, Sep 2025</div>
+                        </div>
+                    </li>
+                    <li class="award-item">
+                        <span class="award-year">2025</span>
+                        <div class="award-content">
+                            <div class="award-title">Cognitively-Inspired Interaction Relation Understanding</div>
+                            <div class="award-org">CSIG "Rising Star" CAST Young Talent Doctoral Forum — Online, Mar 2025</div>
+                        </div>
+                    </li>
+                    <li class="award-item">
+                        <span class="award-year">2024</span>
+                        <div class="award-content">
+                            <div class="award-title">Learning from Observer Gaze: Zero-Shot Attention Prediction Oriented by Human-Object Interaction Recognition</div>
+                            <div class="award-org">CVPR Gaze Workshop — Seattle, USA, Jun 2024</div>
+                        </div>
+                    </li>
+                    <li class="award-item">
+                        <span class="award-year">2022</span>
+                        <div class="award-content">
+                            <div class="award-title">ActivityNet Indoor Interaction Action Understanding — Winning Solution Report</div>
+                            <div class="award-org">CVPR ActivityNet Workshop — New Orleans, USA, Jun 2022</div>
+                        </div>
+                    </li>
+                </ul>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- ===== Footer ===== -->
+    <footer>
+        <div class="container">
+            <p class="footer-text">&copy; 2026 Yuchen Zhou. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 10) navbar.classList.add('scrolled');
+            else navbar.classList.remove('scrolled');
+        });
+
+        const navToggle = document.getElementById('navToggle');
+        const navLinks = document.getElementById('navLinks');
+        navToggle.addEventListener('click', () => navLinks.classList.toggle('show'));
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => navLinks.classList.remove('show'));
+        });
+    </script>
+</body>
+</html>

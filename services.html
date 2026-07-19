@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services — Yuchen Zhou (周昱臣)</title>
+    <meta name="description" content="Professional services and academic memberships of Yuchen Zhou.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        /* ===== Services-specific compact styles ===== */
+        .services-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+        }
+
+        .service-item {
+            display: flex;
+            gap: 18px;
+            padding: 11px 0;
+            border-bottom: 1px solid var(--color-border-light);
+            align-items: flex-start;
+        }
+
+        .service-item:last-child {
+            border-bottom: none;
+        }
+
+        .service-type {
+            flex-shrink: 0;
+            width: 86px;
+            font-weight: 700;
+            font-size: 12.5px;
+            line-height: 1.45;
+            color: var(--color-accent);
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .service-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .service-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 1px;
+        }
+
+        .service-meta {
+            font-size: 12.5px;
+            color: var(--color-text-muted);
+            line-height: 1.5;
+        }
+
+        .service-meta a {
+            font-weight: 500;
+        }
+
+        .membership-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px 20px;
+            list-style: none;
+            padding: 8px 0 0 0;
+        }
+
+        .membership-item {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+            font-size: 13.5px;
+            color: var(--color-text);
+        }
+
+        .membership-item::before {
+            content: "";
+            flex-shrink: 0;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: var(--color-accent);
+        }
+
+        .membership-abbr {
+            font-weight: 600;
+            color: var(--color-text);
+        }
+
+        .membership-name {
+            color: var(--color-text-muted);
+            font-size: 12.5px;
+        }
+
+        .reviewer-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px 9px;
+            padding: 8px 0 2px 0;
+        }
+
+        .reviewer-tag {
+            display: inline-flex;
+            align-items: center;
+            padding: 4px 10px;
+            border-radius: 999px;
+            font-size: 12.5px;
+            font-weight: 500;
+            background: var(--color-accent-lighter);
+            color: var(--color-accent-dark);
+            border: 1px solid var(--color-accent-light);
+            white-space: nowrap;
+        }
+
+        .reviewer-tag:hover {
+            background: var(--color-accent-light);
+        }
+
+        .reviewer-category {
+            width: 100%;
+            font-weight: 600;
+            font-size: 12.5px;
+            color: var(--color-text-secondary);
+            margin: 8px 0 2px 0;
+            letter-spacing: 0.02em;
+        }
+
+        .reviewer-category:first-child {
+            margin-top: 0;
+        }
+
+        @media (max-width: 768px) {
+            .service-type {
+                width: 64px;
+                font-size: 11.5px;
+            }
+
+            .membership-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ===== Navigation ===== -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">
+                <span class="nav-brand-name">Yuchen Zhou</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html#home">About</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="awards.html">Awards</a></li>
+                <li><a href="talks.html">Talks</a></li>
+                <li><a href="services.html" class="active">Services</a></li>
+            </ul>
+            <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="3" y1="6" x2="21" y2="6"/>
+                    <line x1="3" y1="12" x2="21" y2="12"/>
+                    <line x1="3" y1="18" x2="21" y2="18"/>
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+
+            <!-- ===== Services ===== -->
+            <section class="card">
+                <div class="page-header">
+                    <h1>Services</h1>
+                    <p>Professional memberships, committee roles, and reviewing services.</p>
+                </div>
+
+                <div class="pub-year-header">Memberships</div>
+                <ul class="membership-grid">
+                    <li class="membership-item">
+                        <span class="membership-abbr">ACM</span>
+                        <span class="membership-name">Association for Computing Machinery</span>
+                    </li>
+                    <li class="membership-item">
+                        <span class="membership-abbr">IEEE</span>
+                        <span class="membership-name">Institute of Electrical and Electronics Engineers</span>
+                    </li>
+                    <li class="membership-item">
+                        <span class="membership-abbr">CSIG</span>
+                        <span class="membership-name">中国图象图形学学会 · 青年人才托举博士生</span>
+                    </li>
+                    <li class="membership-item">
+                        <span class="membership-abbr">CAA</span>
+                        <span class="membership-name">中国自动化学会</span>
+                    </li>
+                    <li class="membership-item">
+                        <span class="membership-abbr">CCF</span>
+                        <span class="membership-name">中国计算机学会</span>
+                    </li>
+                </ul>
+
+                <div class="pub-year-header">Program Committee</div>
+                <ul class="services-list">
+                    <li class="service-item">
+                        <span class="service-type">PC Member</span>
+                        <div class="service-content">
+                            <div class="service-title">Human-Autonomous Vehicle Interaction Workshop (人车交互研讨会)</div>
+                            <div class="service-meta"><a href="https://haviworkshop.github.io/2024/" target="_blank">HAVI Workshop</a> · WACV 2025</div>
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="pub-year-header">Invited Reviewer</div>
+                <div class="reviewer-cloud">
+                    <div class="reviewer-category">Journals</div>
+                    <span class="reviewer-tag">IEEE T-PAMI</span>
+                    <span class="reviewer-tag">IEEE T-IP</span>
+                    <span class="reviewer-tag">IEEE T-NNLS</span>
+                    <span class="reviewer-tag">IEEE T-CSVT</span>
+                    <span class="reviewer-tag">IEEE T-ITS</span>
+                    <span class="reviewer-tag">IEEE T-IV</span>
+                    <span class="reviewer-tag">IJCV</span>
+                    <span class="reviewer-tag">Scientific Reports</span>
+                    <span class="reviewer-tag">SPL</span>
+                    <span class="reviewer-tag">JSC</span>
+                    <span class="reviewer-tag">CVIU</span>
+
+                    <div class="reviewer-category">Conferences</div>
+                    <span class="reviewer-tag">CVPR</span>
+                    <span class="reviewer-tag">ICCV</span>
+                    <span class="reviewer-tag">NeurIPS</span>
+                    <span class="reviewer-tag">ICLR</span>
+                    <span class="reviewer-tag">ACM MM</span>
+                    <span class="reviewer-tag">IJCAI</span>
+                    <span class="reviewer-tag">ACML</span>
+                    <span class="reviewer-tag">ITSC</span>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- ===== Footer ===== -->
+    <footer>
+        <div class="container">
+            <p class="footer-text">&copy; 2026 Yuchen Zhou. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 10) navbar.classList.add('scrolled');
+            else navbar.classList.remove('scrolled');
+        });
+
+        const navToggle = document.getElementById('navToggle');
+        const navLinks = document.getElementById('navLinks');
+        navToggle.addEventListener('click', () => navLinks.classList.toggle('show'));
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => navLinks.classList.remove('show'));
+        });
+    </script>
+</body>
+</html>
