@@ -415,7 +415,7 @@ main {
 
 /* ===== News (Scrollable) ===== */
 .news-scroll-wrapper {
-    max-height: 400px;
+    max-height: 800px;
     overflow-y: auto;
     padding-right: 14px;
 }
